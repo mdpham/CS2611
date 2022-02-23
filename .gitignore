@@ -1,2 +1,7 @@
-project/*
+project/scotus
+project/proposal
 GoogleNews-vectors-negative300.bin.gz
+
+lit/
+
+__pycache__
